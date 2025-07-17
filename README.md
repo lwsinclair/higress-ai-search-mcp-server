@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cr7258-higress-ai-search-mcp-server-badge.png)](https://mseep.ai/app/cr7258-higress-ai-search-mcp-server)
+
 # Higress AI-Search MCP Server
 
 ## Overview
